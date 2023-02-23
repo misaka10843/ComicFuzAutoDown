@@ -1,0 +1,3 @@
+[submodule "fuzDown"]
+	path = fuzDown
+	url = https://github.com/misaka10843/ComicFuz-Down.git
