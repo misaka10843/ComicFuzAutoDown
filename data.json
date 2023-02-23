@@ -1,0 +1,171 @@
+{
+    "props":{
+        "pageProps":{
+            "magazineIssues":[
+                {
+                    "magazineIssueId":26359,
+                    "magazineIssueName":"２０２３年４月号",
+                    "thumbnailUrl":"/j/1zXph8/6rT.webp?h=Hjv0tvcwDcuxkeP7dEuiPg&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2023/02/17 発売",
+                    "endDate":"2024/02/16",
+                    "firstPageImageUrl":"/k/1zXpxF/6rT/0.jpeg.enc?h=QSOomsazQcycvHsgsY9Wbw&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26322,
+                    "magazineIssueName":"２０２３年３月号",
+                    "thumbnailUrl":"/j/1zNzmi/6ri.webp?h=xsAuumqsPCOgXpHC0uXmmw&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2023/01/19 発売",
+                    "endDate":"2024/01/18",
+                    "firstPageImageUrl":"/k/1zNznl/6ri/0.jpeg.enc?h=TH9Yoeha2Mvhkhw7ANGg_Q&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26283,
+                    "magazineIssueName":"２０２３年２月号",
+                    "thumbnailUrl":"/j/1zCJmR/6qH.webp?h=CkwUGTxfb8UyTQPoYux3Ug&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/12/19 発売",
+                    "endDate":"2023/12/18",
+                    "firstPageImageUrl":"/k/1zCJEh/6qH/0.jpeg.enc?h=CZ2YBDLMaclPAqSnl1ZFpw&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26247,
+                    "magazineIssueName":"２０２３年１月号",
+                    "thumbnailUrl":"/j/1zsTb2/6q7.webp?h=cqsVU1L9hneWlOd0d4_WCg&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/11/17 発売",
+                    "endDate":"2023/11/16",
+                    "firstPageImageUrl":"/k/1zsRut/6q7/0.jpeg.enc?h=LFpa41qx0A2zYKKlpMtDCg&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26207,
+                    "magazineIssueName":"２０２２年１２月号",
+                    "thumbnailUrl":"/j/1zjis9/6pv.webp?h=e4-Ti5sgAQj0fd45IeOOiQ&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/10/19 発売",
+                    "endDate":"2023/10/18",
+                    "firstPageImageUrl":"/k/1zjiKl/6pv/0.jpeg.enc?h=S5Ml6O8apVyax81TRRhRHw&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26171,
+                    "magazineIssueName":"２０２２年１１月号",
+                    "thumbnailUrl":"/j/1z8ol_/6oX.webp?h=ziYGvMqdwmw-H2z1hzEpTQ&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/09/16 発売",
+                    "endDate":"2023/09/15",
+                    "firstPageImageUrl":"/k/1z8on1/6oX/0.jpeg.enc?h=suOfJJvc375M9Wj6zh5_Cg&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26129,
+                    "magazineIssueName":"２０２２年１０月号",
+                    "thumbnailUrl":"/j/1y_6rs/6oh.webp?h=yyn7detmuJebprwv13Lkhg&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/08/19 発売",
+                    "endDate":"2023/08/18",
+                    "firstPageImageUrl":"/k/1y_6nq/6oh/0.jpeg.enc?h=mo30DEEaZU5tI8qBYQ4iHA&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26097,
+                    "magazineIssueName":"２０２２年９月号",
+                    "thumbnailUrl":"/j/1yPYGx/6nN.webp?h=p_H_ztO4d3TsMHS9B2MWhA&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/07/19 発売",
+                    "endDate":"2023/07/18",
+                    "firstPageImageUrl":"/k/1yPYGy/6nN/0.jpeg.enc?h=7D04WCzbzhLTDxomo-EALQ&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26058,
+                    "magazineIssueName":"２０２２年８月号",
+                    "thumbnailUrl":"/j/1yGDX-/6na.webp?h=uL5gB6-ejlwT1sDkWXNdFQ&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/06/17 発売",
+                    "endDate":"2023/06/16",
+                    "firstPageImageUrl":"/k/1yGDYx/6na/0.jpeg.enc?h=DbWYohtjMRcxWOQC6aEvrQ&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":26013,
+                    "magazineIssueName":"２０２２年７月号",
+                    "thumbnailUrl":"/j/1ywvgu/6mt.webp?h=4qA3lBLoBrdXCW6UPKrQNw&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/05/19 発売",
+                    "endDate":"2023/05/18",
+                    "firstPageImageUrl":"/k/1ywxMA/6mt/0.jpeg.enc?h=Y9WLo7J9-lcPKfg99F02bQ&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":25984,
+                    "magazineIssueName":"２０２２年６月号",
+                    "thumbnailUrl":"/j/1yl-42/6m0.webp?h=L8jRMHZ_Nr06oZuORhSNog&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/04/19 発売",
+                    "endDate":"2023/04/18",
+                    "firstPageImageUrl":"/k/1yl-4x/6m0/0.jpeg.enc?h=UmkrugOLb3keP72YVjQ9Cw&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                },
+                {
+                    "magazineIssueId":25945,
+                    "magazineIssueName":"２０２２年５月号",
+                    "thumbnailUrl":"/j/1ycGYX/6lp.webp?h=59r7gBFC9E-LLL_u9YBu3A&e=5000000000",
+                    "paidPoint":330,
+                    "numberOfSamplePages":12,
+                    "updatedDate":"2022/03/19 発売",
+                    "endDate":"2023/03/18",
+                    "firstPageImageUrl":"/k/1ycGZE/6lp/0.jpeg.enc?h=cHHespnKNBmiwlrJ3nuzTA&e=1677337200",
+                    "magazineName":"まんがタイムきららMAX"
+                }
+            ],
+            "endedOfSaleMagazineIssues":[
+
+            ],
+            "magazineName":"まんがタイムきららMAX",
+            "pickupMagazineIssue":{
+                "magazineIssueId":26359,
+                "magazineIssueName":"２０２３年４月号",
+                "thumbnailUrl":"/j/1zXph8/6rT.webp?h=Hjv0tvcwDcuxkeP7dEuiPg&e=5000000000",
+                "paidPoint":330,
+                "numberOfSamplePages":12,
+                "updatedDate":"2023/02/17 発売",
+                "endDate":"2024/02/16",
+                "firstPageImageUrl":"/k/1zXpxF/6rT/0.jpeg.enc?h=QSOomsazQcycvHsgsY9Wbw&e=1677337200",
+                "magazineName":"まんがタイムきららMAX"
+            },
+            "isCommentEnabled":true,
+            "sns":{
+                "body":"「まんがタイムきららMAX」を COMIC FUZ で今すぐ読もう！ #COMICFUZ  ##まんがタイムきららMAX",
+                "url":"https://comicfuz.page.link/DBbf3Uj7RQWUopwaA"
+            }
+        },
+        "__N_SSG":true
+    },
+    "page":"/magazine/[magazineIssueId]",
+    "query":{
+        "magazineIssueId":"26359"
+    },
+    "buildId":"JC36htZ5JU95RGUCjQdN2",
+    "isFallback":false,
+    "gsp":true,
+    "scriptLoader":[
+
+    ]
+}
